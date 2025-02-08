@@ -1,5 +1,5 @@
 # DevSearch
-Sourcode and Resources for Django 5 Course
+Sourcode and Resources
 
 # Installation
 * 1 - clone repo
